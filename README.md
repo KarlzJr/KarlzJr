@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @KarlzJr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Alejandra Sicairos, I am currently a 3rd year Art and Design: Games and Playble Media student at UC Santa Cruz
+I’m interested in making educational games with hidden messages
+I’m currently learning how to use Unity
+I’m looking to collaborate on any games being made or help plan
+How to reach me: Email: kasicair@ucsc.edu
 
-<!---
-KarlzJr/KarlzJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
